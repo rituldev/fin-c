@@ -1,0 +1,20 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
+export default {
+  IcFile: require("./ic-file.svg").default,
+  IcDeletePrimary: require("./ic-delete-primary.svg").default,
+  IcFolder: require("./ic-folder.svg").default,
+  IcInfoPrimary: require("./ic-info-primary.svg").default,
+  MainLogo: require("./main-logo.png"),
+  IcUserOutlinedDefault: require("./ic-user-outlined-default.svg").default,
+  IcMyActivityLogDefault: require("./ic-my-activity-log-default.svg").default,
+  IcLockDefault: require("./ic-lock-default.svg").default,
+  IcLogOutDefault: require("./ic-logout-default.svg").default,
+  IcNotificationGrey: require("./ic-notification-grey.svg").default,
+  IcDashboard: require("./ic-dashboard.svg").default,
+  IcAccount: require("./ic-itr.svg").default,
+  IcGst: require("./ic-gst.svg").default,
+  IcMessage: require("./ic-message.svg").default,
+  IcSetting: require("./ic-setting.svg").default,
+  IcUpload: require("./ic-upload.svg").default,
+  // MainLogoFooter: require("./main-logo-footer.svg").default,
+};
